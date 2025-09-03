@@ -1,0 +1,16 @@
+return {
+    bg = "#f8f7f2",
+    bg_alt = "#efede6",
+    fg = "#2b2d33",
+    fg_alt = "#3b3e45",
+    muted = "#777c85",
+    subtle = "#b8bbc2",
+    border = "#d8d4cb",
+    value = "#4f6a8f",
+    kw = "#6f60b0",
+    ty = "#7f73c8",
+    comment = "#4f6684",
+    red = "#a64646",
+    yellow = "#9a7a3e",
+    accent = "#8076b8",
+}
